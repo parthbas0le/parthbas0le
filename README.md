@@ -1,5 +1,5 @@
 ### Hi there,
-`I am Parth Basole, I make stuff happen.`
+`I am Parth Basole and I make stuff happen.`
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insanetech/) 
@@ -10,12 +10,12 @@
 
 
 
-<!-- # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=abhi9044&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhi9044&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9044&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=parthbas0le&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parthbas0le&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthbas0le&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- -->
+
 
 ### ✍️Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
