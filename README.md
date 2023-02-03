@@ -2,7 +2,7 @@
 `I am Parth Basole and I make stuff happen.`
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insanetech/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/parth-basole-22844115a) 
 
 ## 💻Tech Stack
 ![Flutter](https://img.shields.io/badge/flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=%23F7DF1E) ![Android](https://img.shields.io/badge/android-%23007ACC.svg?style=for-the-badge&logo=android&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%23000000.svg?style=for-the-badge&logo=Dart&logoColor=#00C7B7) 
