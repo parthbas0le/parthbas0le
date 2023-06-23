@@ -1,5 +1,5 @@
 ### Hi there,
-`I am Parth Basole and I make stuff happen.`
+`I make stuff happen.`
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/parth-basole-22844115a) 
